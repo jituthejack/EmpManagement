@@ -94,7 +94,7 @@ git clone https://github.com/jituthejack/EmpManagement.git
 
 ## 👨‍💻 Author
 
-**Jack**
+**Jitendra Nanhore**
 Java Developer | Spring Boot | Spring Data JPA | Hibernate | MySQL | REST APIs | Postman
 
 ---
